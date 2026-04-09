@@ -1,0 +1,234 @@
+,PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,WikiId,Name_wiki,Age_wiki,Hometown,Boarded,Destination,Lifeboat,Body,Class
+1,2,1.0,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,90.0,"Cumings, Mrs. Florence Briggs (née Thayer)",35.0,"New York, New York, US",Cherbourg,"New York, New York, US",4,,1.0
+2,3,1.0,3,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,S,865.0,"Heikkinen, Miss Laina",26.0,"Jyväskylä, Finland",Southampton,New York City,14?,,3.0
+3,4,1.0,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S,127.0,"Futrelle, Mrs. Lily May (née Peel)",35.0,"Scituate, Massachusetts, US",Southampton,"Scituate, Massachusetts, US",D,,1.0
+8,9,1.0,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,,S,902.0,"Johnson, Mrs. Elisabeth Vilhelmina (née Berg)",26.0,"St. Charles, Illinois, US",Southampton,"St. Charles, Illinois, US",15,,3.0
+9,10,1.0,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,,C,520.0,"Nassr Allah, Mrs. Adal (née Akim)[62][77]",14.0,"Zahlé, Lebanon, Ottoman Empire",Cherbourg,"Cleveland, Ohio, US",?,,2.0
+10,11,1.0,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,1193.0,"Sandström, Miss Marguerite Rut",4.0,"Motala, Östergötland, Sweden",Southampton,"San Francisco, US",13,,3.0
+11,12,1.0,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,S,35.0,"Bonnell, Miss Elizabeth",61.0,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,,1.0
+15,16,1.0,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,S,446.0,"Hewlett, Mrs. Mary Dunbar (née Kingcome)",56.0,"Lucknow, British India, UK[note 3]",Southampton,"Rapid City, South Dakota, US",13,,2.0
+19,20,1.0,3,"Masselmani, Mrs. Fatima",female,,0,0,2649,7.225,,C,1053.0,"Muslamani, Mrs. Fatimah",22.0,"Tebnine, Lebanon",Cherbourg,"Michigan City, Indiana, US",C,,3.0
+22,23,1.0,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Q,1014.0,"McGowan, Miss Anna F. ""Annie""",16.0,"Massbrook, Mayo, Ireland",Queenstown,"Chicago, Illinois, US",13,,3.0
+25,26,1.0,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,S,649.0,"Asplund, Mrs. Selma Augusta Emilia (née Johansson)",38.0,"Alseda, Småland, Sweden",Southampton,"Worcester, Massachusetts, US",15,,3.0
+28,29,1.0,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Q,1086.0,"O'Dwyer, Miss Ellen ""Nellie""",25.0,"Limerick, Limerick, Ireland",Queenstown,New York City,?,,3.0
+31,32,1.0,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,146.5208,B78,C,275.0,"Spencer, Mrs. Marie Eugénie (née Demougeot)",45.0,"New York, New York, US",Cherbourg,"New York, New York, US",6,,1.0
+32,33,1.0,3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q,826.0,"Glynn, Miss Mary Agatha",19.0,"Killaloe, Clare, Ireland",Queenstown,"Washington, DC, US",13,,3.0
+39,40,1.0,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,C,1071.0,"Niqula-Yarid, Miss Jamilah",14.0,"El-Hakour, Lebanon",Cherbourg,"Jacksonville, Florida, US",C,,3.0
+43,44,1.0,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,C,487.0,"Laroche, Miss Simoné Marie Anne Andrée",3.0,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,,2.0
+44,45,1.0,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Q,778.0,"Devaney, Miss Margaret Delia",19.0,"Kilmacowen, Sligo, Ireland",Queenstown,New York City,C,,3.0
+47,48,1.0,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q,1085.0,"O'Driscoll, Miss Bridget",24.0,"Ballydehob, Cork, Ireland",Queenstown,"Jersey City, New Jersey, US",D,,3.0
+52,53,1.0,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C,148.0,"Harper, Mrs. Myna (née Haxtun)",49.0,"New York, New York, US",Cherbourg,"New York, New York, US",3,,1.0
+53,54,1.0,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,,S,603.0,"Wilkinson, Miss Elizabeth Anne (alias Mrs. Elizabeth Faunthorpe)",29.0,"Manchester, England",Southampton,"Philadelphia, Pennsylvania, US",16,,2.0
+56,57,1.0,2,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,,S,559.0,"Rugg, Miss Emily",21.0,"Guernsey, Channel Islands",Southampton,"Wilmington, Delaware, US",12,,2.0
+58,59,1.0,2,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,,S,598.0,"West, Miss Constance Mirium",4.0,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,,2.0
+61,62,1.0,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,,284.0,"and maid, Miss Amelie ""Amelia"" Icard",38.0,"New York, New York, US",Southampton,"New York, New York, US",6,,1.0
+66,67,1.0,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,S,527.0,"Nye, Mrs. Elizabeth (née Ramell)",29.0,"East Orange, New Jersey, US",Southampton,"East Orange, New Jersey, US",11,,2.0
+68,69,1.0,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,,S,639.0,"Andersson, Miss Erna Alexandra",17.0,"Kullaa, Finland",Southampton,New York City,D,,3.0
+79,80,1.0,3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,,S,786.0,"Dowdell, Miss Elizabeth",31.0,"New York City, New York, US",Southampton,New York City,13,,3.0
+82,83,1.0,3,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,7.7875,,Q,1011.0,"McDermott, Miss Bridget Delia",31.0,"Lahardane, Mayo, Ireland",Queenstown,"Chicago, Illinois, US",13,,3.0
+84,85,1.0,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,,S,464.0,"Ilett, Miss Bertha",17.0,"Jersey, Channel Islands",Southampton,"Atlanta, Georgia, US",?,,2.0
+85,86,1.0,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,,S,664.0,"Backström, Mrs. Maria Mathilda (née Gustafsson)[62][80]",33.0,"Kotka, Finland",Southampton,New York City,D,,3.0
+88,89,1.0,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,117.0,"Fortune, Miss Mabel Helen",23.0,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,,1.0
+98,99,1.0,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,,S,400.0,"Doling, Mrs. Ada Julia (née Bone)",34.0,"Southampton, Hampshire, England, UK",Southampton,New York City,?,,2.0
+106,107,1.0,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,S,1186.0,"Salkjelsvik, Miss Anna Kristine",21.0,"Ålesund, Møre og Romsdal, Norway",Southampton,"Proctor, Minnesota, US",C,,3.0
+109,110,1.0,3,"Moran, Miss. Bertha",female,,1,0,371110,24.15,,Q,1037.0,"Moran, Miss Bertha Bridget",28.0,"Askeaton, Limerick, Ireland",Queenstown,"Brooklyn, New York, US",16,,3.0
+123,124,1.0,2,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,S,590.0,"Webber, Miss Susan",37.0,"Bude, Cornwall, England",Southampton,"Hartford, Connecticut, US",12,,2.0
+128,129,1.0,3,"Peter, Miss. Anna",female,,1,1,2668,22.3583,F E69,C,703.0,"Butrus-Youssef, Miss Marianna",2.0,"Sar'al, Syria[81]",Cherbourg,"Detroit, Michigan, US",C,,3.0
+133,134,1.0,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,,S,592.0,"Weisz, Mrs. Mathilde Françoise (née Pëde)",37.0,"Bromsgrove, Worcestershire, England",Southampton,"Montreal, Quebec, Canada",10,,2.0
+136,137,1.0,1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,S,216.0,"Newsom, Miss Helen Monypeny",19.0,"New York, New York, US",Southampton,"New York, New York, US",5,,1.0
+141,142,1.0,3,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,,S,1077.0,"Nysten, Miss Anna Sofia",22.0,"Kisa, Östergötland, Sweden",Southampton,"Hackensack, New Jersey, US",13,,3.0
+142,143,1.0,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,S,850.0,"Hakkarainen, Mrs. Elin Matilda (née Dolck)",24.0,"Helsinki, Finland",Southampton,"Monessen, Pennsylvania, US",15,,3.0
+151,152,1.0,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S,226.0,"Pears, Mrs. Edith (née Wearne)",22.0,"Isleworth, London, England, UK",Southampton,"New York, New York, US",8,,1.0
+156,157,1.0,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,,Q,825.0,"Gilnagh, Miss Mary Katherine ""Katie""",17.0,"Esker, Longford, Ireland",Queenstown,New York City,16,,3.0
+161,162,1.0,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,,S,588.0,"Watt, Mrs. Elizabeth Inglis ""Bessie"" (née Milne)",40.0,"Aberdeen, Aberdeenshire, Scotland",Southampton,"Portland, Oregon, US",9,,2.0
+166,167,1.0,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,55.0,E33,S,75.0,"Chibnall, Mrs. Edith Martha Bowerman (née Barber)",48.0,"St Leonards-on-Sea, East Sussex, England, UK",Southampton,"New York, New York, US",6,,1.0
+172,173,1.0,3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,,S,904.0,"Johnson, Miss Eleanor Ileen",1.0,"St. Charles, Illinois, US",Southampton,"St. Charles, Illinois, US",15,,3.0
+184,185,1.0,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,,S,940.0,"Kink, Miss Luise Gretchen",4.0,"Zürich, Switzerland",Southampton,"Milwaukee, Wisconsin, US",2,,3.0
+186,187,1.0,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Q,1080.0,"O'Brien, Mrs. Johanna ""Hannah"" (née Godfrey)",26.0,"Pallasgreen, Limerick, Ireland",Queenstown,New York City,?,,3.0
+190,191,1.0,2,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,,S,541.0,"Pinsky, Mrs. Rosa",21.0,"Brooklyn, New York, US",Southampton,"Brooklyn, New York, US",9,,2.0
+192,193,1.0,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,,S,631.0,"Andersen-Jensen, Miss Carla Christine",19.0,"Eskilstrup, Denmark",Southampton,"Portland, Oregon, US",16,,3.0
+194,195,1.0,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,C,44.0,"Brown, Mrs. Margaret (née Tobin)",44.0,"Denver, Colorado, US",Cherbourg,"Denver, Colorado, US",6,,1.0
+195,196,1.0,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,C,276.0,"and maid, Miss Eugenie Elise Lurette",59.0,"New York, New York, US",Cherbourg,"New York, New York, US",6,,1.0
+198,199,1.0,3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q,992.0,"Madigan, Miss Margaret ""Maggie""",21.0,"Askeaton, Limerick, Ireland",Queenstown,New York City,15,,3.0
+208,209,1.0,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,,Q,741.0,"Corr, Miss Helen",16.0,"Corglass, Longford, Ireland",Queenstown,New York City,16,,3.0
+211,212,1.0,2,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,,S,367.0,"Cameron, Miss Clear Annie",35.0,"London, England, UK",Southampton,"Mamaronek, New York, US",14,,2.0
+215,216,1.0,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C,214.0,"Newell, Miss Madeleine",31.0,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,,1.0
+216,217,1.0,3,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,,S,875.0,"Honkanen, Miss Eliina",27.0,"Saarijärvi, Finland",Southampton,New York City,?,,3.0
+218,219,1.0,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C,46.0,"and maid, Miss Albina Bazzani",36.0,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",8,,1.0
+230,231,1.0,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,S,150.0,"Harris, Mrs. Irene (née Wallach)",35.0,"New York, New York, US",Southampton,"New York, New York, US",D,,1.0
+233,234,1.0,3,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,,S,653.0,"Asplund, Miss Lillian Gertrud",5.0,"Alseda, Småland, Sweden",Southampton,"Worcester, Massachusetts, US",15,,3.0
+237,238,1.0,2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,,S,385.0,"Collyer, Miss Marjorie Charlotte ""Lottie""",8.0,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,,2.0
+241,242,1.0,3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q,1050.0,"Murphy, Miss Catherine ""Kate""",18.0,"Aghnacliffe, Longford, Ireland",Queenstown,"Philadelphia, Pennsylvania, US",16,,3.0
+247,248,1.0,2,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,,S,431.0,"Hämäläinen, Mrs. Anna (Anna Hamlin)",24.0,"Detroit, Michigan, US",Southampton,"Detroit, Michigan, US",4,,2.0
+255,256,1.0,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,,C,1263.0,"Touma, Mrs. Hanna Youssef (née Razi)",27.0,"Tibnin, Lebanon",Cherbourg,"Dowagiac, Michigan, US",C,,3.0
+256,257,1.0,1,"Thorne, Mrs. Gertrude Maybelle",female,,0,0,PC 17585,79.2,,C,300.0,"Thorne, Mrs. Gertrude Maybelle (née McMinn)",37.0,"New York, New York, US",Cherbourg,"New York, New York, US",D,,1.0
+257,258,1.0,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,S,73.0,"Cherry, Miss Gladys",30.0,"London, England, UK",Southampton,"Vancouver, British Columbia, Canada",8,,1.0
+258,259,1.0,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,,C,51.0,"and maid, Miss Annie Moore Ward",38.0,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,,1.0
+259,260,1.0,2,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,,S,535.0,"Parrish, Mrs. Lutie Davis (née Temple)",60.0,"Woodford County, Kentucky, US",Southampton,"Woodford County, Kentucky, US",12,,2.0
+268,269,1.0,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,S,136.0,"Graham, Mrs. Edith Ware (née Junkins)",59.0,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,,1.0
+269,270,1.0,1,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,S,311.0,"and maid, Miss Amelia Mayo ""Nellie"" Bessette",39.0,"New York, New York, US",Cherbourg,"New York, New York, US",8,,1.0
+272,273,1.0,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,,S,508.0,"Mellinger, Mrs. Elizabeth Anne (née Maidment)",41.0,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,,2.0
+274,275,1.0,3,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Q,862.0,"Healy, Miss Hanora (Nora)",29.0,"Athenry, Galway, Ireland",Queenstown,New York City,16,,3.0
+275,276,1.0,1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,S,11.0,"Andrews, Miss Kornelia Theodosia",62.0,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,,1.0
+279,280,1.0,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,S,609.0,"Abbott, Mrs. Rhoda Mary (née Hunt)",39.0,"East Providence, Rhode Island, US",Southampton,"East Providence, Rhode Island, US",A,,3.0
+289,290,1.0,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Q,734.0,"Connolly, Miss Katherine ""Kate""",22.0,"Cortrasna, Cavan, Ireland",Queenstown,New York City,13,,3.0
+290,291,1.0,1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,,S,68.0,"and maid, Miss Ellen ""Nellie"" Barber",26.0,"London, England, UK",Southampton,"New York, New York, US",6,,1.0
+291,292,1.0,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,C,31.0,"Bishop, Mrs. Helen (née Walton)[62][65]",19.0,"Dowagiac, Michigan, US",Cherbourg,"Dowagiac, Michigan, US",7,,1.0
+299,300,1.0,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C,23.0,"Baxter, Mrs. Hélène (née de Lanaudière-Chaput)",50.0,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",6,,1.0
+300,301,1.0,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Q,930.0,"Kelly, Miss Anna Katherine",20.0,"Cuilmullagh, Mayo, Ireland",Queenstown,"Chicago, Illinois, US",16,,3.0
+303,304,1.0,2,"Keane, Miss. Nora A",female,,0,0,226593,12.35,E101,Q,476.0,"Keane, Miss Nora Agnes",46.0,"Castleconnell, Limerick, Ireland[note 1]",Queenstown,"Harrisburg, Pennsylvania, US",10,,2.0
+306,307,1.0,1,"Fleming, Miss. Margaret",female,,0,0,17421,110.8833,,C,298.0,"and maid, Miss Margaret Fleming",42.0,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,,1.0
+307,308,1.0,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,C,228.0,"Peñasco y Castellana, Mrs. Maria Josefa (née Perez de Soto y Vallejo)",22.0,"Madrid, Spain",Cherbourg,"New York, New York, US",8,,1.0
+309,310,1.0,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,C,106.0,"and secretary, Miss Laura Mabel Francatelli",31.0,"London, England, UK",Cherbourg,"New York, New York, US",1,,1.0
+310,311,1.0,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,C,156.0,"Hays, Miss Margaret Bechstein",24.0,"New York, New York, US",Cherbourg,"New York, New York, US",7,,1.0
+311,312,1.0,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,250.0,"Ryerson, Miss Emily Borie",18.0,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,,1.0
+315,316,1.0,3,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,,S,1070.0,"Nilsson, Miss Helmina Josefina",26.0,"Ramkvilla, Småland, Sweden",Southampton,"Joliet, Illinois, US",13,,3.0
+316,317,1.0,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,S,473.0,"Kantor, Mrs. Miriam (née Sternin)",24.0,"Vitebsk, Russian Empire",Southampton,"Bronx, New York, US",12,,2.0
+318,319,1.0,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,S,315.0,"Wick, Miss Mary Natalie",31.0,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,,1.0
+319,320,1.0,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,C,270.0,"Spedden, Mrs. Margaretta Corning (née Stone)",39.0,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,,1.0
+322,323,1.0,2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Q,568.0,"Slayter, Miss Hilda Mary",30.0,"Halifax, Nova Scotia, Canada",Queenstown,"Vancouver, British Columbia, Canada",13,,2.0
+323,324,1.0,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,,S,365.0,"Caldwell, Mrs. Sylvia Mae (née Harbaugh)",28.0,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,,2.0
+325,326,1.0,1,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,C,326.0,"Young, Miss Marie Grice",36.0,"New York, New York, US",Cherbourg,"New York, New York, US",8,,1.0
+327,328,1.0,2,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,D,S,336.0,"Ball, Mrs. Ada E. (née Hall)",36.0,"Bristol, Avon, England",Southampton,"Jacksonville, Florida, US",10,,2.0
+328,329,1.0,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,,S,828.0,"Goldsmith, Mrs. Emily Alice (née Brown)",31.0,"Strood, Kent, England",Southampton,"Detroit, Michigan, US",C,,3.0
+329,330,1.0,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,C,161.0,"Hippach, Miss Jean Gertrude",17.0,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,,1.0
+330,331,1.0,3,"McCoy, Miss. Agnes",female,,2,0,367226,23.25,,Q,1008.0,"McCoy, Miss Catherine Agnes",29.0,"Carrickatane, Tyrone, Ireland",Queenstown,"Brooklyn, New York, US",16,,3.0
+334,335,1.0,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,133.65,,S,121.0,"Frauenthal, Mrs. Clara (née Heinsheimer)",42.0,"London, England, UK",Southampton,"New York, New York, US",5,,1.0
+337,338,1.0,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,C,273.0,"and nurse, Miss Elizabeth Margaret Burns",41.0,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,,1.0
+341,342,1.0,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,S,116.0,"Fortune, Miss Alice Elizabeth",24.0,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,,1.0
+345,346,1.0,2,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,F33,S,4.0,"and cook, Miss Amelia Mary ""Mildred"" Brown[59]",18.0,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,,1.0
+346,347,1.0,2,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,,S,570.0,"Smith, Miss Marion Elsie",39.0,"Basingstoke, Hampshire, England",Southampton,"Washington, DC US",9,,2.0
+347,348,1.0,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,0,386525,16.1,,S,,,,,,,,,
+356,357,1.0,1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,S,38.0,"Bowerman, Miss Elsie Edith",22.0,"St Leonards-on-Sea, East Sussex, England, UK",Southampton,"New York, New York, US",6,,1.0
+358,359,1.0,3,"McGovern, Miss. Mary",female,,0,0,330931,7.8792,,Q,1013.0,"McGovern, Miss Mary",22.0,"Corlough, Cavan, Ireland",Queenstown,New York City,13,,3.0
+359,360,1.0,3,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,7.8792,,Q,1032.0,"Mockler, Miss Ellen Mary",23.0,"Currafarry, Galway, Ireland",Queenstown,New York City,16,,3.0
+366,367,1.0,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,C,306.0,"Warren, Mrs. Anna Sophia (née Atkinson)",60.0,"Portland, Oregon, US",Cherbourg,"Portland, Oregon, US",5,,1.0
+367,368,1.0,3,"Moussa, Mrs. (Mantoura Boulos)",female,,0,0,2626,7.2292,,C,1042.0,"Moussa, Mrs. Mantoura",35.0,"Hardîne, Lebanon",Cherbourg,"Wilkes-Barre, Pennsylvania, US",?,,3.0
+368,369,1.0,3,"Jermyn, Miss. Annie",female,,0,0,14313,7.75,,Q,892.0,"Jermyn, Miss Annie Jane",26.0,"Ballydehob, Cork, Ireland",Queenstown,"East Lynn, Massachusetts, US",D,,3.0
+369,370,1.0,1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,C,19.0,"Aubart, Mrs. Léontine Pauline[63]",24.0,"Paris, France",Cherbourg,"New York, New York, US",9,,1.0
+375,376,1.0,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,82.1708,,C,203.0,"Meyer, Mrs. Leila (née Saks)",25.0,"New York, New York, US",Cherbourg,"New York, New York, US",6,,1.0
+376,377,1.0,3,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,,S,954.0,"Landergren, Miss Aurora Adelia",22.0,"Karlshamn, Blekinge, Sweden",Southampton,New York City,13,,3.0
+380,381,1.0,1,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,,C,17.0,"and maid, Miss Rosalie Bidois",46.0,"New York, New York, US",Cherbourg,"New York, New York, US",4,,1.0
+381,382,1.0,3,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,,C,1057.0,"Nackid, Miss Maria",1.0,"Zgharta, Lebanon",Cherbourg,"Waterbury, Connecticut, US",C,,3.0
+383,384,1.0,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,,S,164.0,"Holverson, Mrs. Mary Aline (née Towner)",35.0,"New York, New York, US",Southampton,"New York, New York, US",8,,1.0
+387,388,1.0,2,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,,S,360.0,"Buss, Miss Kate",36.0,"Sittingbourne, Kent, England",Southampton,"San Francisco, US",9,,2.0
+389,390,1.0,2,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,,C,489.0,"Lehmann, Miss Bertha",17.0,"Lotzwil, Switzerland",Cherbourg,"Central City, Iowa, US",12,,2.0
+393,394,1.0,1,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,C,215.0,"Newell, Miss Marjorie Anne",23.0,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,,1.0
+394,395,1.0,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,S,1192.0,"Sandström, Mrs. Agnes Charlotta (née Bengtsson)",24.0,"Motala, Östergötland, Sweden",Southampton,"San Francisco, US",13,,3.0
+399,400,1.0,2,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,,S,578.0,"Trout, Mrs. Jessie L.",26.0,"Columbus, Ohio, US",Southampton,"Columbus, Ohio, US",9,,2.0
+412,413,1.0,1,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Q,207.0,"Minahan, Miss Daisy E.",33.0,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",14,,1.0
+416,417,1.0,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,,S,404.0,"Drew, Mrs. Lulu Thorne (née Christian)",34.0,"Greenport, New York, US",Southampton,"Greenport, New York, US",10,,2.0
+417,418,1.0,2,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,,S,564.0,"Silvén, Miss Lyyli Karolina",17.0,"Tornio, Finland, Russian Empire[note 6]",Southampton,"Minneapolis, Minnesota, US",16,,2.0
+426,427,1.0,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,,S,378.0,"Clarke, Mrs. Ada Maria",28.0,"Netley Abbey, Hampshire, England",Southampton,"San Francisco, California, US",14,,2.0
+427,428,1.0,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,,S,540.0,"Phillips, Miss Kate Florence (alias Mrs. Kate Marshall)[10][78]",19.0,"Birmingham, Worcester, England",Southampton,"Los Angeles, US",11,,2.0
+431,432,1.0,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,,S,1255.0,"Thorneycroft, Mrs. Florence Kate (née Stears)",32.0,"Maidstone, Kent, England",Southampton,"Clinton, New York, US",10,,3.0
+432,433,1.0,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,S,496.0,"Louch, Mrs. Alice Adelaide (née Slow)",42.0,"Weston-super-Mare, North Somerset, England",Southampton,New York City,14,,2.0
+435,436,1.0,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,S,62.0,"Carter, Miss Lucile Polk",13.0,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,,1.0
+437,438,1.0,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,,S,553.0,"Richards, Mrs. Emily (née Hocking)",23.0,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,,2.0
+440,441,1.0,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,,S,439.0,"Hart, Mrs. Esther Ada (née Bloomfield)",48.0,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,,2.0
+443,444,1.0,2,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,,S,551.0,"Reynaldo, Miss Encarnación",28.0,"Marbella, Spain",Southampton,New York City,9,,2.0
+446,447,1.0,2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,,S,509.0,"Mellinger, Miss Madeleine Violet",13.0,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,,2.0
+448,449,1.0,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,,C,670.0,"Baqlini, Miss Mariya Katarin",5.0,"Ḑuhūr ash Shuwayr, Lebanon",Cherbourg,"Brooklyn, New York, US",C,,3.0
+457,458,1.0,1,"Kenyon, Mrs. Frederick R (Marion)",female,,1,0,17464,51.8625,D21,S,177.0,"Kenyon, Mrs. Marion (née Stauffer)[62][68]",31.0,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",8,,1.0
+458,459,1.0,2,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,,S,576.0,"Toomey, Miss Ellen Mary",48.0,"Indianapolis, Indiana, US",Southampton,"Indianapolis, Indiana, US",9,,2.0
+469,470,1.0,3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,,C,672.0,"Baqlini, Miss Hileni Barbarah",0.75,"Ḑuhūr ash Shuwayr, Lebanon",Cherbourg,"Brooklyn, New York, US",C,,3.0
+472,473,1.0,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,,S,597.0,"West, Mrs. Ada Mary (née Worth)[62][79]",33.0,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,,2.0
+473,474,1.0,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,C,471.0,"Jerwan, Mrs. Marie Marthe (née Thuillard)",23.0,New York City,Southampton,New York City,11,,2.0
+479,480,1.0,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,S,872.0,"Hirvonen, Miss Hildur Elisabeth",2.0,"Taalintehdas, Finland",Southampton,"Monessen, Pennsylvania, US",15,,3.0
+483,484,1.0,3,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,,S,1268.0,"Turkula, Mrs. Hedvig",63.0,"Jalasjärvi, Southern Ostrobothnia, Finland",Southampton,"Hibbing, Minnesota, US",15,,3.0
+486,487,1.0,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,S,167.0,"Hoyt, Mrs. Jane Anne (née Forby)",31.0,"New York, New York, US",Southampton,"Stamford, Connecticut, US",D,,1.0
+496,497,1.0,1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,C,108.0,"Eustis, Miss Elizabeth Mussey",54.0,"Brookline, Massachusetts, US",Cherbourg,"Brookline, Massachusetts, US",4,,1.0
+504,505,1.0,1,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,S,184.0,"and maid, Miss Roberta Elizabeth Mary ""Cissy"" Maioni[69]",20.0,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,,1.0
+506,507,1.0,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,S,545.0,"Quick, Mrs. Jane (née Richards)",33.0,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,,2.0
+513,514,1.0,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,,C,244.0,"Rothschild, Mrs. Elizabeth Jane Anne (née Barrett)",54.0,"New York, New York, US",Cherbourg,"New York, New York, US",6,,1.0
+516,517,1.0,2,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,F33,S,491.0,"Lemore, Mrs. Amelia ""Milley"" (née Hunt)",34.0,"Chicago, Illinois, US",Southampton,"Chicago, Illinois, US",14,,2.0
+518,519,1.0,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,,S,332.0,"Angle, Mrs. Florence Agnes ""Mary"" (née Hughes)",36.0,"Warwick, Warwickshire, England",Southampton,New York City,11,,2.0
+520,521,1.0,1,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,S,155.0,"and maid, Miss Mary Anne Perreault",33.0,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,,1.0
+523,524,1.0,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,C,160.0,"Hippach, Mrs. Ida Sophia (née Fischer)",44.0,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,,1.0
+526,527,1.0,2,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,,S,557.0,"Ridsdale, Miss Lucy",50.0,"London, England",Southampton,"Marietta, Ohio, US",13,,2.0
+530,531,1.0,2,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,,S,547.0,"Quick, Miss Phyllis May",2.0,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,,2.0
+533,534,1.0,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,2,2668,22.3583,,C,701.0,"Butrus-Youssef, Mrs. Katarin (née Rizk)",24.0,"Sar'al, Syria",Cherbourg,"Detroit, Michigan, US",C,,3.0
+535,536,1.0,2,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,,S,440.0,"Hart, Miss Eva Miriam",7.0,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,,2.0
+537,538,1.0,1,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,,C,102.0,"and maid, Miss Berthe Leroy",27.0,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",2,,1.0
+539,540,1.0,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,C,125.0,"Frölicher-Stehli, Miss Hedwig Margaritha",22.0,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,,1.0
+540,541,1.0,1,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,S,88.0,"Crosby, Miss Harriette Rebecca",39.0,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",7,,1.0
+546,547,1.0,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,,S,340.0,"Beane, Mrs. Ethel (née Clarke)",19.0,"Norwich, Norfolk, England",Southampton,New York City,13,,2.0
+554,555,1.0,3,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,,S,1091.0,"Öhman, Miss Velin",22.0,"Mariestad, Västergötland, Sweden",Southampton,"Chicago, Illinois, US",C,,3.0
+556,557,1.0,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,C,105.0,"Duff Gordon, Lucy Christiana, Lady (née Sutherland)",48.0,"London, England, UK",Cherbourg,"New York, New York, US",1,,1.0
+558,559,1.0,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,S,292.0,"Taussig, Mrs. Tillie (née Mandelbaum)",39.0,"New York, New York, US",Southampton,"New York, New York, US",8,,1.0
+559,560,1.0,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,S,767.0,"De Messemaeker, Mrs. Anna (née de Becker)",36.0,"Tampico, Montana, US",Southampton,"Tampico, Montana, US",13,,3.0
+571,572,1.0,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,S,13.0,"Appleton, Mrs. Charlotte Lane (née Lamson)",53.0,"New York, New York, US",Southampton,"New York, New York, US",2,,1.0
+573,574,1.0,3,"Kelly, Miss. Mary",female,,0,0,14312,7.75,,Q,931.0,"Kelly, Miss Mary",22.0,"Castlepollard, Westmeath, Ireland",Queenstown,New York City,D,,3.0
+576,577,1.0,2,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,S,419.0,"Garside, Miss Ethel",34.0,"Liverpool, Merseyside, England",Southampton,"Brooklyn, New York, US",12,,2.0
+577,578,1.0,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,S,259.0,"Silvey, Mrs. Alice (née Munger)",39.0,"Duluth, Minnesota, US",Cherbourg,"Duluth, Minnesota, US",11,,1.0
+580,581,1.0,2,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,S,376.0,"Christy, Miss Rachel Julie Cohen",25.0,"London, England, UK",Southampton,"Montreal, Quebec, Canada",12,,2.0
+581,582,1.0,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,C,297.0,"Thayer, Mrs. Marian Longsteth (née Morris)",39.0,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,,1.0
+585,586,1.0,1,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,S,293.0,"Taussig, Miss Ruth",18.0,"New York, New York, US",Southampton,"New York, New York, US",8,,1.0
+591,592,1.0,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,D20,C,281.0,"Stephenson, Mrs. Martha (née Eustis)",52.0,"Paris, France",Cherbourg,"Haverford, Pennsylvania, US",4,,1.0
+596,597,1.0,2,"Leitch, Miss. Jessie Wills",female,,0,0,248727,33.0,,S,490.0,"Leitch, Miss Jessie Wills",31.0,"London, England",Southampton,"Chicago, Illinois, US",11,,2.0
+600,601,1.0,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,,S,466.0,"Jacobsohn, Mrs. Amy Frances Christy (née Cohen)",24.0,"London, England",Southampton,"Montreal, Quebec, Canada",12,,2.0
+608,609,1.0,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,,C,486.0,"Laroche, Mrs. Juliette Marie Louise (née Lafargue)[62][75]",22.0,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,,2.0
+609,610,1.0,1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,S,138.0,"and governess, Miss Elizabeth Weed Shutes",40.0,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,,1.0
+612,613,1.0,3,"Murphy, Miss. Margaret Jane",female,,1,0,367230,15.5,,Q,1051.0,"Murphy, Miss Margaret Jane ""Maggie/Mary""",25.0,"Fostragh, Longford, Ireland",Queenstown,"Philadelphia, Pennsylvania, US",16,,3.0
+615,616,1.0,2,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,,S,444.0,"Herman, Miss Alice",24.0,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,,2.0
+618,619,1.0,2,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,F4,S,344.0,"Becker, Miss Marion Louise",4.0,"Guntur, Madras Province, British India",Southampton,"Benton Harbor, Michigan, US",11,,2.0
+627,628,1.0,1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,S,191.0,"Longley, Miss Gretchen Fiske",21.0,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,,1.0
+635,636,1.0,2,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,,S,394.0,"Davis, Miss Mary",28.0,"London, England, UK",Southampton,"Tottenville, New York, US",13,,2.0
+641,642,1.0,1,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,C,20.0,"and maid, Miss Emma Sägesser",24.0,"Paris, France",Cherbourg,"New York, New York, US",9,,1.0
+644,645,1.0,3,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,,C,671.0,"Baqlini, Miss Eujini",4.0,"Ḑuhūr ash Shuwayr, Lebanon",Cherbourg,"Brooklyn, New York, US",C,,3.0
+649,650,1.0,3,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,,S,1231.0,"Stanley, Miss Amy Zillah Elsie",24.0,"Wallingford, Oxfordshire, England",Southampton,"New Haven, Connecticut, US",C,,3.0
+651,652,1.0,2,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,S,401.0,"Doling, Miss Elsie",19.0,"Southampton, Hampshire, England, UK",Southampton,New York City,?,,2.0
+653,654,1.0,3,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,7.8292,,Q,1088.0,"O'Leary, Miss Hanora ""Nora""",16.0,"Kingwilliamstown, Cork, Ireland",Queenstown,New York City,13,,3.0
+669,670,1.0,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,0,19996,52.0,C126,S,295.0,"Taylor, Mrs. Juliet Cummins (née Wright)",48.0,"London, England, UK",Southampton,"East Orange, New Jersey, US",5,,1.0
+670,671,1.0,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,,S,356.0,"Brown, Mrs. Elizabeth Catherine (née Ford)",40.0,"Cape Town, South Africa, UK",Southampton,"Seattle, Washington, US",14,,2.0
+677,678,1.0,3,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,,S,1267.0,"Turja, Miss Anna Sofiia",18.0,"Oulainen, Oulu, Finland",Southampton,"Ashtabula, Ohio, US",15,,3.0
+689,690,1.0,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,S,193.0,"Madill, Miss Georgette Alexandra",16.0,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,,1.0
+691,692,1.0,3,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,,C,924.0,"Karun, Miss Manca (""Anna"")",4.0,"Milje, Slovenia",Southampton,"Galesburg, Illinois, US",15,,3.0
+697,698,1.0,3,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,7.7333,,Q,1047.0,"Mullen, Miss Katherine ""Katie""",19.0,"Esker, Longford, Ireland",Queenstown,New York City,16,,3.0
+700,701,1.0,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,C,16.0,"Astor, Mrs. Madeleine Talmage (née Force)[61][62]",18.0,"New York, New York, US",Cherbourg,"New York, New York, US",4,,1.0
+706,707,1.0,2,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,,S,477.0,"Kelly, Miss Florence ""Fannie""",45.0,"London, England",Southampton,New York City,9,,2.0
+708,709,1.0,1,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,,S,9.0,"and nurse, Miss Alice Catherine Cleaver",22.0,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,,1.0
+710,711,1.0,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,C,198.0,"Mayné, Miss Bertha Antonine",24.0,"Brussels, Belgium",Cherbourg,"Montreal, Quebec, Canada",6,,1.0
+716,717,1.0,1,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,C,18.0,"and nurse, Miss Caroline Louise Endres",39.0,"New York, New York, US",Cherbourg,"New York, New York, US",4,,1.0
+717,718,1.0,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,E101,S,579.0,"Troutt, Miss Edwina Celia ""Winnie""",27.0,"Bath, Somerset, England",Southampton,"Auburndale, Florida, US",16,,2.0
+720,721,1.0,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,,S,435.0,"Harper, Miss Annie Jessie ""Nina""",6.0,"London, England",Southampton,"Chicago, Illinois, US",11,,2.0
+726,727,1.0,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,,S,550.0,"Renouf, Mrs. Lillian ""Lily"" (née Jefferys)",30.0,"Elizabeth, New Jersey, US",Southampton,"Elizabeth, New Jersey, US",12,,2.0
+727,728,1.0,3,"Mannion, Miss. Margareth",female,,0,0,36866,7.7375,,Q,1000.0,"Mannion, Miss Margaret",28.0,"Caltra, Galway, Ireland",Queenstown,New York City,16,,3.0
+730,731,1.0,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,S,1.0,"Allen, Miss Elizabeth Walton",29.0,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,,1.0
+742,743,1.0,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,249.0,"Ryerson, Miss Susan Parker ""Suzette""",21.0,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,,1.0
+747,748,1.0,2,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,S,566.0,"Sinkkonen, Miss Anna",30.0,"Turku, Finland, Russian Empire[note 6]",Southampton,"Brighton, Boston, Massachusetts, US",10,,2.0
+750,751,1.0,2,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,,S,594.0,"Wells, Miss Joan",4.0,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,,2.0
+754,755,1.0,2,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,,S,443.0,"Herman, Mrs. Jane (née Laver)",48.0,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,,2.0
+759,760,1.0,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,S,183.0,"Leslie, Lucy Noël Martha, Countess of Rothes (née Dyer-Edwardes)",34.0,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,,1.0
+763,764,1.0,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,S,60.0,"Carter, Mrs. Lucile (née Polk)",36.0,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,,1.0
+765,766,1.0,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,S,162.0,"Hogeboom, Mrs. Anna Louisa (née Andrews)",51.0,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,,1.0
+774,775,1.0,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,,S,451.0,"Hocking, Mrs. Elizabeth ""Eliza"" (née Neads)",54.0,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,,2.0
+777,778,1.0,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,,S,801.0,"Emanuel, Miss Virginia Ethel",6.0,"New York City, New York, US",Southampton,New York City,13,,3.0
+779,780,1.0,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,B3,S,235.0,"Robert, Mrs. Elisabeth Walton (née McMillan)",43.0,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,,1.0
+780,781,1.0,3,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,,C,661.0,"Ayyub Dahir, Miss Bannurah",15.0,"Beirut, Lebanon",Cherbourg,"Owen Sound, Ontario, Canada",C,,3.0
+781,782,1.0,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,B20,S,96.0,"Dick, Mrs. Vera (née Gillespie)",17.0,"Calgary, Alberta, Canada",Southampton,"Calgary, Alberta, Canada",3,,1.0
+786,787,1.0,3,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,,S,1213.0,"Sjöblom, Miss Anna Sofiia",18.0,"Munsala, Finland",Southampton,"Olympia, Washington, US",16,,3.0
+796,797,1.0,1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,S,182.0,"Leader, Dr. Alice (née Farnham)",49.0,"New York, New York, US",Southampton,"New York, New York, US",8,,1.0
+797,798,1.0,3,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,,S,668.0,"Banski, Mrs. Mara (née Osman)",31.0,"Vagovina, Croatia",Southampton,"Steelton, Pennsylvania, US",?,,3.0
+801,802,1.0,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,,S,384.0,"Collyer, Mrs. Charlotte Annie (née Tate)",31.0,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,,2.0
+809,810,1.0,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,E8,S,72.0,"Chambers, Mrs. Bertha (née Griggs)",32.0,"New York, New York, US",Southampton,"New York, New York, US",5,,1.0
+820,821,1.0,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,S,154.0,"Hays, Mrs. Clara Jennings (née Grigg)",52.0,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,,1.0
+823,824,1.0,3,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,S,1034.0,"Moor, Mrs. Beila",29.0,"Unknown, Russia",Southampton,"Chicago, Illinois, US",14,,3.0
+829,830,1.0,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,,283.0,"Stone, Mrs. Martha Evelyn (née Stevens)",62.0,"New York, New York, US",Southampton,"New York, New York, US",6,,1.0
+830,831,1.0,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,,C,1307.0,"Yasbak, Mrs. Silanah Fa'ud (née Iskandar)",15.0,"Unknown, Lebanon",Cherbourg,"Wilkes-Barre, Pennsylvania, US",C,,3.0
+835,836,1.0,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,C,82.0,"Compton, Miss Sara Rebecca",39.0,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",14,,1.0
+842,843,1.0,1,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,,C,61.0,"and maid, Miss Auguste Serreplan",30.0,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,,1.0
+849,850,1.0,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,0,17453,89.1042,C92,C,132.0,"Goldenberg, Mrs. Nella (née Wiggins)",40.0,"Paris, France",Cherbourg,"New York, New York, US",5,,1.0
+853,854,1.0,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,S,189.0,"Lines, Miss Mary Conover",16.0,"Paris, France",Cherbourg,"Hanover, New Hampshire, US",9,,1.0
+855,856,1.0,3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,,S,620.0,"Aks, Mrs. Leah (née Rosen)",18.0,"London, England",Southampton,"Norfolk, Virginia, US",13,,3.0
+856,857,1.0,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,,S,314.0,"Wick, Mrs. Mary (née Hitchcock)",45.0,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,,1.0
+858,859,1.0,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,,C,669.0,"Baqlini, Mrs. Mariyam Latifa (née Qurban)",24.0,"Ḑuhūr ash Shuwayr, Lebanon",Cherbourg,"Brooklyn, New York, US",C,,3.0
+862,863,1.0,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,S,290.0,"Swift, Mrs. Margaret Welles (née Barron)",46.0,"New York, New York, US",Southampton,"New York, New York, US",8,,1.0
+865,866,1.0,2,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,,S,363.0,"Byström, Miss Karolina",42.0,New York City,Southampton,New York City,?,,2.0
+866,867,1.0,2,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,,C,407.0,"Duran y More, Miss Asunción",27.0,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",12,,2.0
+871,872,1.0,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,S,27.0,"Beckwith, Mrs. Sallie (née Monypeny)",46.0,"New York, New York, US",Southampton,"New York, New York, US",5,,1.0
+874,875,1.0,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,,C,328.0,"Abelson, Mrs. Anna (née Wizosky?)",28.0,Russia,Cherbourg,"New York, New York, US",10,,2.0
+875,876,1.0,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,,C,1311.0,"Zajib Qiyamah, Miss Adal ""Jane""",15.0,"El Shweir, Lebanon",Cherbourg,"Brooklyn, New York, US",C,,3.0
+879,880,1.0,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,C,232.0,"Potter, Mrs. Lily Alexenia (née Wilson)",56.0,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",7,,1.0
+880,881,1.0,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,,S,563.0,"Shelley, Mrs. Imanita (née Parrish Hall)",25.0,"Deer Lodge, Montana, US",Southampton,"Deer Lodge, Montana, US",12,,2.0
+887,888,1.0,1,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,S,137.0,"Graham, Miss Margaret Edith",19.0,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,,1.0
